@@ -1,0 +1,33 @@
+{
+  "name": "dorajs-clash-config-regenerator",
+  "displayName": "clash-config-regenerator",
+  "version": "0.0.1",
+  "uuid": "3cf00b19-ade2-40cb-ad48-0d32fae4952b",
+  "description": "clash订阅规则转换",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "biobot"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Biobots/dorajs-clash-config-regenerator.git"
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "https://github.com/Biobots",
+  "engines": {
+    "dora": ">=1.8.1"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {
+    "clash-config-regenerator": "^0.0.6"
+  }
+}

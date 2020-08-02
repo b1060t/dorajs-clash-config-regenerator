@@ -1,0 +1,4 @@
+port: 1234 # server port
+
+configDir: 'data/'
+outputDir: 'data/'
